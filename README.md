@@ -135,4 +135,3 @@ This `autounattend.xml` file and associated scripts are provided **as-is**, with
 For assistance or additional documentation, refer to:
 
 - [Microsoft Docs - Windows Unattended Setup Reference](https://docs.microsoft.com/en-us/windows-hardware/customize/desktop/unattend/)
-- Your organization’s system administrator or deployment team.
